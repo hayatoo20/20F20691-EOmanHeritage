@@ -1,0 +1,183 @@
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\EShopping.dll.config
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\EShopping.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\EShopping.pdb
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\csc.exe
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\csc.exe.config
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\csc.rsp
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\csi.exe
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\csi.exe.config
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\csi.rsp
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.AppContext.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Console.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.IO.Compression.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Net.Http.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.ValueTuple.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\vbc.exe
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\vbc.exe.config
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\vbc.rsp
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\VBCSCompiler.exe
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\AjaxControlToolkit.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\itextsharp.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\obj\Debug\EOmanHeritage.csproj.AssemblyReference.cache
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\obj\Debug\EOmanHeritage.csproj.CoreCompileInputs.cache
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\obj\Debug\EOmanHeritage.csproj.CopyComplete
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\obj\Debug\EShopping.dll
+C:\Users\MOD\Desktop\ECommerce(Gift_Customized)\EShopping\obj\Debug\EShopping.pdb
+E:\EOmanHeritage\EShopping\bin\EShopping.dll.config
+E:\EOmanHeritage\EShopping\bin\EShopping.dll
+E:\EOmanHeritage\EShopping\bin\EShopping.pdb
+E:\EOmanHeritage\EShopping\bin\roslyn\csc.exe
+E:\EOmanHeritage\EShopping\bin\roslyn\csc.exe.config
+E:\EOmanHeritage\EShopping\bin\roslyn\csc.rsp
+E:\EOmanHeritage\EShopping\bin\roslyn\csi.exe
+E:\EOmanHeritage\EShopping\bin\roslyn\csi.exe.config
+E:\EOmanHeritage\EShopping\bin\roslyn\csi.rsp
+E:\EOmanHeritage\EShopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\EOmanHeritage\EShopping\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\Microsoft.Managed.Core.targets
+E:\EOmanHeritage\EShopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\EOmanHeritage\EShopping\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.AppContext.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Collections.Immutable.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Console.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Globalization.Calendars.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.IO.Compression.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.IO.FileSystem.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Net.Http.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Net.Sockets.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Reflection.Metadata.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.ValueTuple.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Xml.XmlDocument.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Xml.XPath.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\EOmanHeritage\EShopping\bin\roslyn\vbc.exe
+E:\EOmanHeritage\EShopping\bin\roslyn\vbc.exe.config
+E:\EOmanHeritage\EShopping\bin\roslyn\vbc.rsp
+E:\EOmanHeritage\EShopping\bin\roslyn\VBCSCompiler.exe
+E:\EOmanHeritage\EShopping\bin\roslyn\VBCSCompiler.exe.config
+E:\EOmanHeritage\EShopping\bin\AjaxControlToolkit.dll
+E:\EOmanHeritage\EShopping\bin\itextsharp.dll
+E:\EOmanHeritage\EShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\EOmanHeritage\EShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\EOmanHeritage\EShopping\obj\Debug\EOmanHeritage.csproj.AssemblyReference.cache
+E:\EOmanHeritage\EShopping\obj\Debug\EOmanHeritage.csproj.CoreCompileInputs.cache
+E:\EOmanHeritage\EShopping\obj\Debug\EOmanHeritage.csproj.CopyComplete
+E:\EOmanHeritage\EShopping\obj\Debug\EShopping.dll
+E:\EOmanHeritage\EShopping\obj\Debug\EShopping.pdb
+E:\EOmanHeritage - Copy\EShopping\bin\EShopping.dll.config
+E:\EOmanHeritage - Copy\EShopping\bin\EShopping.dll
+E:\EOmanHeritage - Copy\EShopping\bin\EShopping.pdb
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\csc.exe
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\csc.exe.config
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\csc.rsp
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\csi.exe
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\csi.exe.config
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\csi.rsp
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\Microsoft.Managed.Core.targets
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.AppContext.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Collections.Immutable.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Console.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Globalization.Calendars.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.IO.Compression.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.IO.FileSystem.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Net.Http.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Net.Sockets.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Reflection.Metadata.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.ValueTuple.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Xml.XmlDocument.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Xml.XPath.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\vbc.exe
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\vbc.exe.config
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\vbc.rsp
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\VBCSCompiler.exe
+E:\EOmanHeritage - Copy\EShopping\bin\roslyn\VBCSCompiler.exe.config
+E:\EOmanHeritage - Copy\EShopping\bin\AjaxControlToolkit.dll
+E:\EOmanHeritage - Copy\EShopping\bin\itextsharp.dll
+E:\EOmanHeritage - Copy\EShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\EOmanHeritage - Copy\EShopping\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\EOmanHeritage - Copy\EShopping\obj\Debug\EOmanHeritage.csproj.AssemblyReference.cache
+E:\EOmanHeritage - Copy\EShopping\obj\Debug\EOmanHeritage.csproj.CoreCompileInputs.cache
+E:\EOmanHeritage - Copy\EShopping\obj\Debug\EOmanHeritage.csproj.CopyComplete
+E:\EOmanHeritage - Copy\EShopping\obj\Debug\EShopping.dll
+E:\EOmanHeritage - Copy\EShopping\obj\Debug\EShopping.pdb
