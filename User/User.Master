@@ -166,13 +166,12 @@
                                         <a href="Cart.aspx" class="dropdown-item">Shopping Cart</a>
                                         <a href="Wishlist.aspx" class="dropdown-item">Wishlist</a>
                                         <a href="OrderHistory.aspx" class="dropdown-item">Orders</a>
-                                     
+                                        
                                     </div>
                                 </div>
                                 <a href="Contact.aspx" class="nav-item nav-link">ContactUs</a>
                                 <a href="Aboutus.aspx" class="nav-item nav-link">AboutUs</a>
-                                
-                              
+                             
                                 
                             </div>
                             <div class="navbar-nav ml-auto py-0">
@@ -221,7 +220,7 @@
                                 <a class="text-dark mb-2" href="Checkout.aspx"><i class="fa fa-angle-right mr-2"></i>Checkout</a>
                                 <a class="text-dark" href="Contact.aspx"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
                                 <a class="text-dark" href="Aboutus.aspx"><i class="fa fa-angle-right mr-2"></i>About Us</a>
-                              
+                               
                             </div>
                         </div>
                         <%--<div class="col-md-4 mb-5">

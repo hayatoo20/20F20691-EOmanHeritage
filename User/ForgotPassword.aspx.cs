@@ -37,7 +37,7 @@ SqlDataAdapter sda;/****/
 DataTable dt;/*It keeps all query results
 ...*/
 static string UserEmail = "20F20691@mec.edu.om";
-static string UserPassword = "Oman2020";
+static string UserPassword = "Oman@2040";
 string destinationEmail = string.Empty;
 protected void Page_Load(object sender, EventArgs e)/*.It 
 * processes the 
